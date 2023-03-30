@@ -1,0 +1,18 @@
+C:\Users\Kostya\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Kostya\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kostya\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Kostya\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Kostya\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\HP\Downloads\Telegram Desktop\Открой и посмотри\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\HP\Downloads\Telegram Desktop\Открой и посмотри\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\HP\Downloads\Telegram Desktop\Открой и посмотри\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Telegram Desktop\Открой и посмотри\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Telegram Desktop\Открой и посмотри\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\HP\Downloads\Telegram Desktop\Открой и посмотри\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\IT-Академия\Инженер по тестированию\Даниленко_Калашников_Григорий_лабораторная_№10_задание_2\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\IT-Академия\Инженер по тестированию\Даниленко_Калашников_Григорий_лабораторная_№10_задание_2\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\IT-Академия\Инженер по тестированию\Даниленко_Калашников_Григорий_лабораторная_№10_задание_2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\IT-Академия\Инженер по тестированию\Даниленко_Калашников_Григорий_лабораторная_№10_задание_2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\IT-Академия\Инженер по тестированию\Даниленко_Калашников_Григорий_лабораторная_№10_задание_2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\IT-Академия\Инженер по тестированию\Даниленко_Калашников_Григорий_лабораторная_№10_задание_2\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
